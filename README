@@ -1,0 +1,11 @@
+Samantha Walker
+2315055
+swalker@chapman.edu
+CPSC350 - 03
+assign3
+
+CPSC_Courses, CPSC_231, CPSC350, assign3, g++ assign1.cpp, ./a.out file.txt
+
+Sources:
+- https://www.techiedelight.com/stack-implementation-using-templates/
+- http://www.cplusplus.com/reference/new/bad_array_new_length/
